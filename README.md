@@ -1,34 +1,31 @@
-# Job Insights
+# Ting
 
 
   <strong>👨‍💻 O que foi desenvolvido</strong><br />
-  <p align="center">
-    <img src="images/job.png" alt="Logo Aplicação" width="300"/>
-  </p>
   
-  Neste projeto implementei análises a partir de um conjunto de dados sobre empregos.
-  Os dados foram extraídos do site [Glassdoor](https://www.glassdoor.com.br/) e obtidos através do [Kaggle](https://www.kaggle.com/atharvap329/glassdoor-data-science-job-data), uma plataforma disponiblizando conjuntos de dados para cientistas de dados.
+  Neste projeto implemenntei um programa que simula um algoritmo de indexação de documentos similar ao do Google. O programa é ser capaz de identificar 
+  ocorrências de termos em arquivos TXT.
   <br>
   <br>
   🚵 Habilidades trabalhadas:
-  <ul>
-    <li>Utilizar o terminal interativo do Python.</li>
-    <li>Utilizar estruturas condicionais e de repetição.</li>
-    <li>Utilizar funções built-in do Python.</li>
-    <li>Utilizar tratamento de exceções.</li>
-    <li>Realizar a manipulação de arquivos.</li>
-    <li>Escrever funções.</li>
-    <li>Escrever testes com Pytest.</li>
-    <li>Escrever seus próprios módulos e importá-los em outros códigos.</li>
-  </ul>
+  
+  - Manipular Pilhas
+
+  - Manipular Deque
+
+  - Manipular Nó & Listas Ligadas e
+
+  - Manipular Listas Duplamente Ligadas
+
 <details>
   <summary><strong>⚠ Clonando É executando o projeto</strong></summary><br />
 
   1. Clone o repositório
 
-  - Use o comando: `git clone git@github.com:jandui-Rodrigues/job-insights.git
+  - Use o comando:
+     - `git clone git@github.com:jandui-Rodrigues/Ting.git`
   - Entre na pasta do repositório que você acabou de clonar:
-    - `cd sd-031-b-project-job-insights`
+    - `cd Ting`
 
   2. Crie o ambiente virtual para o projeto
 
@@ -46,7 +43,7 @@
 
 Clone este repositório
 
-    $ git clone git@github.com:jandui-Rodrigues/FutebolClub.git
+    $ git clone git@github.com:jandui-Rodrigues/Ting.git
 
 Acesse a pasta do projeto no terminal/cmd
 
